@@ -1,0 +1,30 @@
+[
+  {
+    "name": "巨无霸",
+    "id": "big-mac",
+    "source": "https://www.mcdonalds.com.cn/product/Big-Mac",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208081011205699.png",
+    "path": "public/food/bigmac.png"
+  },
+  {
+    "name": "麦辣鸡腿汉堡",
+    "id": "spicy-chicken",
+    "source": "https://www.mcdonalds.com.cn/product/Spicy-Chicken-Filet",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2025/04/202504091717393584.png",
+    "path": "public/food/spicy.png"
+  },
+  {
+    "name": "薯条",
+    "id": "fries",
+    "source": "https://www.mcdonalds.com.cn/product/French-Fries",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208091547349086.png",
+    "path": "public/food/fries.png"
+  },
+  {
+    "name": "可口可乐",
+    "id": "cola",
+    "source": "https://www.mcdonalds.com.cn/product/Coca-Cola",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208091541242793.png",
+    "path": "public/food/cola.png"
+  }
+]
